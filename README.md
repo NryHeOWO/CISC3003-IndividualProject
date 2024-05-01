@@ -1,5 +1,5 @@
-##CISC3003 - Team 01 - Individual Project - 2024
-#DC125943 - Wong Chi Chon
+## CISC3003 - Team 01 - Individual Project - 2024
+# DC125943 - Wong Chi Chon
 > Create database
 1. Create a database called shop_dp on phpMyAdmin
 2. Import the shop_db.sql on shop_dp
